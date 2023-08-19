@@ -79,3 +79,13 @@ h3{
 .bxl-facebook-circle{
     color: rgb(59, 23, 221);
 }
+
+@media screen and (max-width: 350px){
+    .header{
+        width: 340px;
+    }
+    .header img{
+        width: 200px;
+        height: 40px;
+    }
+}
